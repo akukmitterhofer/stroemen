@@ -1,0 +1,1 @@
+import{g as e,S as r}from"./ScrollTrigger.FdPegQMx.js";e.registerPlugin(r);const a=document.getElementById("site-header");r.create({start:"top -80",end:99999,toggleClass:{className:"scrolled",targets:a}});e.set("header.scrolled",{backgroundColor:"rgba(255, 255, 255, 0.98)",boxShadow:"0 5px 15px rgba(0, 0, 0, 0.1)"});
